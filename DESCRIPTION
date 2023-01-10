@@ -1,0 +1,23 @@
+Package: ukbmisc
+Title: Various UK Biobank Utilities
+Version: 0.0.0.9000
+Authors@R: 
+    person("Alasdair", "Warwick", email = "alasdair.warwick06@gmail.com", role = c("aut", "cre"))
+Description: Miscellaneous utility functions for working with UK Biobank data.
+License: MIT + file LICENSE
+https: //github.com/rmgpanw/ukbmisc,
+    https://rmgpanw.github.io/ukbmisc/
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports:
+    assertthat,
+    dplyr,
+    magrittr,
+    stringr,
+    tidyr,
+    tidyselect,
+    ukbwranglr
+Remotes: 
+    github::rmgpanw/ukbwranglr
