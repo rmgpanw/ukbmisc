@@ -4,9 +4,17 @@
 \name{ukbmisc-package}
 \alias{ukbmisc}
 \alias{ukbmisc-package}
-\title{ukbmisc: Link UKB datasets}
+\title{ukbmisc: Various UK Biobank Utilities}
 \description{
 Miscellaneous utility functions for working with UK Biobank data.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/rmgpanw/ukbmisc}
+  \item \url{https://rmgpanw.github.io/ukbmisc/}
+}
+
 }
 \author{
 \strong{Maintainer}: Alasdair Warwick \email{alasdair.warwick06@gmail.com}
